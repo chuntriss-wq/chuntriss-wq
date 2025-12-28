@@ -22,7 +22,7 @@ Entry-level IT roles where I can apply my problem-solving skills:
 - Junior Developer
 
 ## 📫 Connect With Me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-VANITY-URL)
+- 💼 [LinkedIn](https://www.linkedin.com/in/christopher-huntriss)
 - 🌐 [Portfolio Website](https://chuntriss-wq.github.io/WEBSITE-PROJECT/)
 - 📧 chuntriss@gmail.com
 
