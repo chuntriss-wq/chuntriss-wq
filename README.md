@@ -11,8 +11,8 @@ I'm a career-changer transitioning into IT after 20 years in hands-on technical 
 - **Currently Learning:** Network fundamentals, system administration, automation scripting
 
 ## 📚 Qualifications:
-- ✅ NCFE Level 2 Certificate in Coding (Completed Dec 2024)
-- 🔄 NCFE Level 2 Certificate in Cyber Security (In Progress - May 2025)
+- ✅ NCFE Level 2 Certificate in Coding (Completed Dec 2025)
+- 🔄 NCFE Level 2 Certificate in Cyber Security (In Progress - May 2026)
 
 ## 💼 What I'm Looking For:
 Entry-level IT roles where I can apply my problem-solving skills:
